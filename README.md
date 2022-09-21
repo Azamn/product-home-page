@@ -25,4 +25,4 @@ In this project i have created a Product Home Page. And i have learnt a lot of t
 
 ### You can Check it Live on Below Link :
 
-[Project Live Link](https://azam-plant-home-page.netlify.app/)
+[Project Live Link](https://azam-product-home-page.netlify.app/)
