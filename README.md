@@ -17,6 +17,8 @@ In this project i have created a Product Home Page. And i have learnt a lot of t
 
 ![Web Site Image](./screenshot/product-home-page.png)
 
+![Web Site Mobile View Image](./screenshot/product-home-page-mobile.png)
+
 ## Time taken to finish this project
 
 ![6 Hours](https://img.shields.io/badge/-6%20Hours-orange)
